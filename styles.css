@@ -38,37 +38,37 @@ top: 6.25rem;
 .c{ 
 height: 200px;
 width: 200px;
-position: relative;
+/*position: relative;
 right: 1.25rem;
-top: 5rem;
+top: 5rem;*/
 }
-.c2{
+.cl{
     height: 200px;
     width: 200px;
-    position: relative;
+    /*position: relative;
     right: 2.1875rem;
-    top: 5rem;
+    top: 5rem;*/
 }
-.c3{
+.co{
     height: 200px;
     width: 200px;
-    right: 3.125rem;
+    /*right: 3.125rem;
     position: relative;
-    top: 5rem;
+    top: 5rem;*/
 }
-.c4{
+.cu{
     height: 200px;
     width: 200px;
-    right: 3.75rem;
+   /* right: 3.75rem;
     position: relative;
-    top: 5rem;
+    top: 5rem;*/
 }
-.c5{
-    position: relative;
+.cd{
+   /* position: relative;*/
     height: 200px;
     width: 200px;
-    top: 5rem;
-    right: 4.375rem;
+/*     top: 5rem; 
+    right: 4.375rem;*/
 }
 .top-con{
     background-color: skyblue;
