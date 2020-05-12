@@ -36,37 +36,37 @@ top: 6.25rem;
     width: 6.25rem;
 }
 .c{ 
-height: 100px;
-width: 100px;
+height: 200px;
+width: 200px;
 /*position: relative;
 right: 1.25rem;
 top: 5rem;*/
 }
 .c2{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
     position: relative;
     right: 2.1875rem;
     top: 5rem;
 }
 .c3{
-    height: 20rem;
-    width: 17rem;
+    height: 200px;
+    width: 200px;
     right: 3.125rem;
     position: relative;
     top: 5rem;
 }
 .c4{
-    height: 20rem;
-    width: 17rem;
+    height: 200px;
+    width: 200px;
     right: 3.75rem;
     position: relative;
     top: 5rem;
 }
 .c5{
     position: relative;
-    height: 17rem;
-    width: 19rem;
+    height: 200px;
+    width: 200px;
     top: 5rem;
     right: 4.375rem;
 }
