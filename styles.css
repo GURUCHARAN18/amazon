@@ -1,0 +1,124 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: #00a8cc;
+    /* position: relative; */
+}
+.mount{
+    margin: 0;
+    height: 50rem;
+    width: 112.5rem;
+}
+.name{
+    color: solid black;
+    font-size: 3rem;
+    
+    /* text-align:center; */
+    /* margin: 80px auto 0px; */
+    position: relative;
+    top: 5.625rem;
+}
+.title{
+    font-size: 2rem;
+position: relative;
+top: 6.25rem;
+}
+.hr{
+    border-style: dotted none none;
+    width: 10%;
+    height: 0rem;
+    border-width: 0.75rem;
+}
+
+/* .tp-cloud{ */
+    /* position: absolute; */
+    /* right: 500px; */
+    /* top: 30px; */
+   /* border: 5px solid teal; */
+    
+/* } */
+/* .bt-cloud{ */
+    /* position:absolute; */
+    
+/* } */
+/* .cloud{ 
+    position: absolute;
+left: 500px;
+    top: 30px;
+     border: 5px solid black; */
+/* } */
+.pubg{
+    height: 18.75rem;
+    width: 18.75rem;
+}
+.fire{
+position: relative;
+bottom: 6.25rem;
+    height: 9.375rem;
+    width: 6.25rem;
+}
+#c1{
+height: 25rem;
+width: 21.875rem;
+position: relative;
+right: 1.25rem;
+top: 5rem;
+}
+#c2{
+    height: 25rem;
+    width: 21.875rem;
+    position: relative;
+    right: 2.1875rem;
+    top: 5rem;
+}
+#c3{
+    height: 25rem;
+    width: 21.9375rem;
+    right: 3.125rem;
+    position: relative;
+    top: 5rem;
+}
+#c4{
+    height: 25rem;
+    width: 21.9375rem;
+    right: 3.75rem;
+    position: relative;
+    top: 5rem;
+}
+#c5{
+    position: relative;
+    height: 25rem;
+    width: 23.75rem;
+    top: 5rem;
+    right: 4.375rem;
+}
+/* #c6{ */
+    /* position: relative; */
+    /* height: 400px; */
+    /* width: 10px; */
+    /* top: 190px; */
+    /* right: 70px; */
+/* } */
+/* .div{ */
+    /* background-color: skyblue; */
+/* } */
+/* .mt{ */
+    /* background-color: teal; */
+/* } */
+.top-con{
+    background-color: skyblue;
+}
+.amazon{
+    position: relative;
+    left: 36.25rem;
+    bottom: 15.625rem;
+    padding-bottom: 1.875rem;
+    color: darkblue;
+    height: 6.25rem;
+    width: 37.5rem;
+    border: 0.125rem solid darkblue;
+    border-radius: 1.875rem;
+    font-size: 6.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightseagreen;
+}
